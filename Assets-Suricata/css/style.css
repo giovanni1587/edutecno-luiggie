@@ -1,0 +1,21 @@
+body{
+    font-family: open sans, sans-serif;
+    font-weight: 400;
+}
+
+h1{
+    font-weight: 700;
+    color: cadetblue;
+}
+.color-fondo{
+    background-color: #ff097c;
+}
+
+.logo{
+    width: 30%;
+}
+
+footer img{
+width: 40px;
+}
+body
